@@ -5,4 +5,4 @@
 
 ### Demo 2:
 
-[Link]([Link](https://comancheace.github.io/AR.js-Demos/arjs_demo_2/index.html)
+[Link](https://comancheace.github.io/AR.js-Demos/arjs_demo_2/index.html)
