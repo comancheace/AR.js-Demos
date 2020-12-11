@@ -7,6 +7,6 @@
 
 ### Demo 2:
 
-<a href="https://comancheace.github.io/AR.js-Demos/arjs_demo_"/index.html" target="_blank">Example 2</a>
+<a href="https://comancheace.github.io/AR.js-Demos/arjs_demo_2/index.html" target="_blank">Example 2</a>
 
 [Link](https://comancheace.github.io/AR.js-Demos/arjs_demo_2/index.html)
